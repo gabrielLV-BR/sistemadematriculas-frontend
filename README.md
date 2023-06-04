@@ -1,27 +1,19 @@
-# GerenciadorMatriculas
+# Sistema de Gerência de Matrículas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+Este é o repositório do frontend do sistema de matrículas, em desenvolvimento como projeto final do curso de Informática integrado ao ensino médio do Instituto Federal do Rio Grande do Sul - Câmpus Farroupilha.
 
-## Development server
+## Pré-requisitos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+É necessário ter:
 
-## Code scaffolding
+- `git`
+- `npm`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como executar
 
-## Build
+- Clonar o repositório `git clone https://github.com/gabrielLV-BR/sistemadematriculas-frontend.git`
+- Adentrar diretório `cd sistemadematriculas-frontend`
+- Instalar dependências `npm install`
+- Rodar servidor de desenvolvimento `npm run start`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> Conforme o projeto é desenvolvido, esse README será atualizado
